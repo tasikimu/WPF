@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <TextBox Height="23" HorizontalAlignment="Left" Margin="8,14,0,0" Name="textBox1" VerticalAlignment="Top" Width="127" />
-        <Button Height="23" Margin="140,14,0,0" Name="button1" VerticalAlignment="Top" HorizontalAlignment="Left" Width="76" Click="button1_Click">Add Item</Button>
+        <Button Height="40" Margin="140,14,0,0" Name="button1" VerticalAlignment="Top" HorizontalAlignment="Left" Width="76" Click="button1_Click">+</Button>
 
         <ListBox Margin="10,60,0,25" Name="LeftListBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="194" Height="176" Background="AntiqueWhite"/>
         <ListBox Margin="0,31,89,41" Name="RightListBox" HorizontalAlignment="Right" Width="176" Background="AntiqueWhite" />
