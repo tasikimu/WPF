@@ -20,7 +20,7 @@
 </Window>
 <!--<Grid>
     <TextBox Height="23" HorizontalAlignment="Left" Margin="8,14,0,0" Name="textBox1" VerticalAlignment="Top" Width="127" />
-    <Button Height="23" Margin="140,14,0,0" Name="button1" VerticalAlignment="Top" HorizontalAlignment="Left" Width="76" Click="button1_Click">Add Item</Button>
+    <Button Height="40" Margin="140,14,0,0" Name="button1" VerticalAlignment="Top" HorizontalAlignment="Left" Width="76" Click="button1_Click">+</Button>
     <ListBox Margin="10,60,0,25" Name="listBox1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="194" Height="200">
         <ListBox Margin="11,13,355,11" Name="LeftListBox" />
         <ListBox Margin="0,13,21,11" Name="RightListBox" HorizontalAlignment="Right" Width="216" />
